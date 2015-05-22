@@ -1,0 +1,26 @@
+body {
+    background-color: #000000;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+	color: white;
+    font-family: "Times New Roman";
+    font-size: 20px;
+    text-align: center;
+}
+
+h2 {
+	color: white;	
+	text-align: center;
+}
+
+img.RiffRaff {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
